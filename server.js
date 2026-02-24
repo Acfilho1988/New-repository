@@ -9,7 +9,7 @@ COLOQUE AQUI SEU COOKIE DA EA
 Exemplo:
 sid=xxxxxxxxxxxx
 */
-const EA_COOKIE = "sid=g.a0006gjoQ1ln30dlMJ9W6cZG6okaZ8zDxIxHFH28J_OdbAovRMibJ-YvhmW9EJ7AsIwk-Q6Y3QACgYKAUcSARcSFQHGX2MiCbxdjfl-mY70eFyqeTpTBBoVAUF8yKoUUcc471ZbrZUVC2o1H_Ui0076";
+const EA_COOKIE = "sid=ABCD123456789XYZ";
 
 const headers = {
     "User-Agent": "Mozilla/5.0",
